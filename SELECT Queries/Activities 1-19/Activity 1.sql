@@ -1,0 +1,2 @@
+-- ACTIVITY 1
+SELECT * FROM exercise;

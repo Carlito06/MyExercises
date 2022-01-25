@@ -1,0 +1,4 @@
+-- Activity 5
+SELECT * FROM Goal;
+
+-- THERE ARE 17 ROWS IN THE GOAL TABLE
