@@ -1,0 +1,7 @@
+-- ALTERING THE QUERIES
+ALTER TABLE Actor ADD DateOfDeath DATE null;
+
+UPDATE Actor SET
+DateOfDeath = '1994-03-04'
+WHERE ActorID = 3;
+
